@@ -3,14 +3,16 @@ repo index
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Private](#private)
+- [Personal](#personal)
 	- [my-vagrant](#my-vagrant)
 	- [my-devops](#my-devops)
+	- [docker-hub-stat](#docker-hub-stat)
+	- [learn-discourse](#learn-discourse)
 	- [learn-zabbix](#learn-zabbix)
 	- [learn-ceph](#learn-ceph)
-	- [docker-hub-stat](#docker-hub-stat)
 	- [learn-ansible](#learn-ansible)
 	- [learn-go](#learn-go)
+	- [learn-keystone](#learn-keystone)
 	- [kvm-cloudinit](#kvm-cloudinit)
 - [VisualOps](#visualops)
 	- [Payment](#payment)
@@ -21,6 +23,7 @@ repo index
 	- [mrbot-activiti](#mrbot-activiti)
 	- [activiti-docker](#activiti-docker)
 - [getdvm](#getdvm)
+	- [image-service](#image-service)
 	- [dev-hyper](#dev-hyper)
 - [Hyper](#hyper)
 	- [dep-hyper](#dep-hyper)
@@ -31,7 +34,7 @@ repo index
 
 <!-- /TOC -->
 
-# Private
+# Personal
 
 ## my-vagrant
 
@@ -46,6 +49,20 @@ repo index
 | --- | --- |
 |repo url | https://github.com/Jimmy-Xu/my-devops |
 |description| multiple ssh to gather info, build omnitty |
+
+## docker-hub-stat
+
+| item | value |
+| --- | --- |
+|repo url | https://github.com/Jimmy-Xu/docker-hub-stat |
+|description| fetch image info from docker hub |
+
+## learn-discourse
+
+| item | value |
+| --- | --- |
+|repo url | https://github.com/Jimmy-Xu/learn-discourse |
+|description| run standalone discourse in docker container |
 
 
 ## learn-zabbix
@@ -62,13 +79,6 @@ repo index
 |repo url | https://github.com/Jimmy-Xu/learn-ceph |
 |description| run ceph single node in container |
 
-## docker-hub-stat
-
-| item | value |
-| --- | --- |
-|repo url | https://github.com/Jimmy-Xu/docker-hub-stat |
-|description| fetch image info from docker hub |
-
 ## learn-ansible
 
 | item | value |
@@ -83,6 +93,12 @@ repo index
 |repo url | https://github.com/Jimmy-Xu/learn-go |
 |description| `go get` support progress, generate callgraph with go pprof |
 
+## learn-keystone
+
+| item | value |
+| --- | --- |
+|repo url | https://github.com/Jimmy-Xu/learn-keystone |
+|description| run Liberty Keystone in docker container |
 
 ## kvm-cloudinit
 
@@ -146,6 +162,14 @@ repo index
 
 # getdvm
 
+## image-service
+
+| item | value |
+| --- | --- |
+| repo url | https://github.com/getdvm/image-service |
+| description | image service for hypernetes |
+
+
 ## dev-hyper
 
 | item | value |
@@ -155,7 +179,6 @@ repo index
 
 
 # Hyper
-
 
 ## dep-hyper
 
