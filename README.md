@@ -1,9 +1,11 @@
 repo index
 ========================================
-
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Personal](#personal)
+	- [talk915](#talk915)
+	- [hubot-slack](#hubot-slack)
+	- [hubot-hyper](#hubot-hyper)
 	- [my-vagrant](#my-vagrant)
 	- [my-devops](#my-devops)
 	- [docker-hub-stat](#docker-hub-stat)
@@ -26,6 +28,8 @@ repo index
 	- [image-service](#image-service)
 	- [dev-hyper](#dev-hyper)
 - [Hyper](#hyper)
+	- [hypercli](#hypercli)
+	- [jenkins-image-slave](#jenkins-image-slave)
 	- [dep-hyper](#dep-hyper)
 	- [test-hyper](#test-hyper)
 	- [hyper-pkg-build](#hyper-pkg-build)
@@ -35,6 +39,29 @@ repo index
 <!-- /TOC -->
 
 # Personal
+
+## talk915
+
+| item | value |
+| --- | --- |
+|repo url | https://bitbucket.org/Jimmy-Xu/talk915 |
+|description| fetch teacher's schedule then send message via wechat |
+
+## hubot-slack
+
+| item | value |
+| --- | --- |
+|repo url | https://github.com/jimmy-xu/hubot-slack |
+|description| dockerfile for hyperhq/hubot-slack:latest |
+
+
+## hubot-hyper
+
+| item | value |
+| --- | --- |
+|repo url | https://github.com/Jimmy-Xu/hubot-hyper |
+|description| Hubot script for managing hyper containers |
+
 
 ## my-vagrant
 
@@ -179,6 +206,25 @@ repo index
 
 
 # Hyper
+
+## hypercli
+
+| item | value |
+| --- | --- |
+| repo url | https://github.com/hyperhq/hypercli |
+| description | hyper client for hyper.sh |
+
+| item | value |
+| --- | --- |
+| repo url | https://github.com/Jimmy-Xu/hypercli/tree/master/integration-cli/autotest |
+| description | dockerfile for hyperhq/hypercli-auto-test:auto |
+
+## jenkins-image-slave
+
+| item | value |
+| --- | --- |
+| repo url | https://github.com/hyperhq/jenkins-image-slave |
+| description | dockerfile for some images |
 
 ## dep-hyper
 
