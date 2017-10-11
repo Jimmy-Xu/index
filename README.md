@@ -28,6 +28,7 @@ repo index
 	- [image-service](#image-service)
 	- [dev-hyper](#dev-hyper)
 - [Hyper](#hyper)
+	- [hyperd-windows-support](#hyperd-windows-support)
 	- [hypercli](#hypercli)
 	- [jenkins-image-slave](#jenkins-image-slave)
 	- [dep-hyper](#dep-hyper)
@@ -206,6 +207,20 @@ repo index
 
 
 # Hyper
+
+## hyperd-windows-support
+
+| item | value |
+| --- | --- |
+| repo url | https://github.com/hyperhq/hyperd/blob/windows-support |
+| description | windows support for hyperd |
+
+**Related:**
+- console (golang)
+  - https://github.com/hyperhq/hyperd/blob/windows-support/hack/windows/common/console.go
+
+- hyperstart-win (C#)
+  - https://github.com/Jimmy-Xu/hyperstart_win
 
 ## hypercli
 
