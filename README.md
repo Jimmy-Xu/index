@@ -3,6 +3,8 @@ repo index
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Personal](#personal)
+	- [hubot-hyper-devops](#hubot-hyper-devops)
+	- [image-hyper-devops](#image-hyper-devops)
 	- [talk915](#talk915)
 	- [hubot-slack](#hubot-slack)
 	- [hubot-hyper](#hubot-hyper)
@@ -40,6 +42,20 @@ repo index
 <!-- /TOC -->
 
 # Personal
+
+## hubot-hyper-devops 
+
+| item | value |
+| --- | --- |
+| repo url | https://github.com/Jimmy-Xu/hubot-hyper-devops |
+| description | hubot plugin for hyper.sh devops |
+
+## image-hyper-devops
+
+| item | value |
+| --- | --- |
+| repo url | https://github.com/Jimmy-Xu/image-hyper-devops |
+| description | dockerfile for hyperhq/hyper-devops |
 
 ## talk915
 
