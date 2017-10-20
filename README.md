@@ -9,8 +9,6 @@ repo index
 	- [hubot-hyper-devops](#hubot-hyper-devops)
 	- [image-hyper-devops](#image-hyper-devops)
 	- [talk915](#talk915)
-	- [hubot-slack](#hubot-slack)
-	- [hubot-hyper](#hubot-hyper)
 	- [my-vagrant](#my-vagrant)
 	- [my-devops](#my-devops)
 	- [docker-hub-stat](#docker-hub-stat)
@@ -82,21 +80,6 @@ repo index
 | --- | --- |
 |repo url | https://bitbucket.org/Jimmy-Xu/talk915 |
 |description| fetch teacher's schedule then send message via wechat |
-
-## hubot-slack
-
-| item | value |
-| --- | --- |
-|repo url | https://github.com/jimmy-xu/hubot-slack |
-|description| dockerfile for hyperhq/hubot-slack:latest |
-
-
-## hubot-hyper
-
-| item | value |
-| --- | --- |
-|repo url | https://github.com/Jimmy-Xu/hubot-hyper |
-|description| Hubot script for managing hyper containers |
 
 
 ## my-vagrant
