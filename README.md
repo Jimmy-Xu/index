@@ -1,8 +1,11 @@
 repo index
 ========================================
+
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Personal](#personal)
+	- [hubot-gmail-growl](#hubot-gmail-growl)
+	- [node-growl](#node-growl)
 	- [hubot-hyper-devops](#hubot-hyper-devops)
 	- [image-hyper-devops](#image-hyper-devops)
 	- [talk915](#talk915)
@@ -42,6 +45,22 @@ repo index
 <!-- /TOC -->
 
 # Personal
+
+## hubot-gmail-growl 
+
+| item | value |
+| --- | --- |
+| repo url | https://github.com/Jimmy-Xu/hubot-gmail-growl |
+| description | hubot plugin, periodically check gmail, notify via gntp-send to growl |
+
+
+## node-growl
+
+| item | value |
+| --- | --- |
+| repo url | https://github.com/Jimmy-Xu/node-growl |
+| description | npm module, noitfy growl via gntp-send |
+
 
 ## hubot-hyper-devops 
 
