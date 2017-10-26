@@ -4,6 +4,8 @@ repo index
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Personal](#personal)
+	- [hubot-another-weixin](#hubot-another-weixin)
+	- [hubot-slack-growl](#hubot-slack-growl)
 	- [hubot-gmail-growl](#hubot-gmail-growl)
 	- [node-growl](#node-growl)
 	- [hubot-hyper-devops](#hubot-hyper-devops)
@@ -43,6 +45,23 @@ repo index
 <!-- /TOC -->
 
 # Personal
+
+## hubot-another-weixin
+
+| item | value |
+| --- | --- |
+| repo url | https://github.com/Jimmy-Xu/hubot-another-weixin |
+| description | another hubot adapter for weixin, [example](https://github.com/Jimmy-Xu/hubot-another-weixin/tree/master/example) |
+
+
+
+## hubot-slack-growl 
+
+| item | value |
+| --- | --- |
+| repo url | https://github.com/Jimmy-Xu/hubot-slack-growl |
+| description | hubot plugin, receive slack message, notify via gntp-send to growl |
+
 
 ## hubot-gmail-growl 
 
